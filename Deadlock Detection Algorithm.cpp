@@ -5,7 +5,7 @@
 //adding a line for the comments frm mp direcctor of machine 2
 #include <iostream>
 #include <cstdlib>
-
+#include<time>
 using namespace std;
 
 #define BOOL_STR(b) (b?"true":"false")

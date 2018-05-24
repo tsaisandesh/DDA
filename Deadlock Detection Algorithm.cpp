@@ -3,6 +3,8 @@
 
 //C++ Program to detect deadlock in a given state
 //adding a line for the comments frm mp direcctor of machine 2
+
+#include<stdio.h>
 #include <iostream>
 #include <cstdlib>
 #include<time>
